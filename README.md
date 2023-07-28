@@ -27,7 +27,7 @@ For storing the data we have used ArrayList. Here we have created an ArrayList w
   removeBlogComment()
   followUser()
 ```
-2. Service  (UserService.java)
+2. Service  
 
 ```bash
  signUpBlogUser()
